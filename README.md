@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadirana911" alt="aadirana911" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN, React Native.**
 
-- 📫 How to reach me **asadimtiaz711@gmail.com**
+- 📫 How to reach me **abbasmuhammad4798@gmail.com**
 
-- 📄 Know about my experiences [https://aadirana911.github.io/](https://aadirana911.github.io/)
+- 📄 Know about my experiences [https://github.com/abbas4798]( https://github.com/abbas4798)
 
 - ⚡ Fun fact **Did you know that some developers have a tendency to fall into a pattern of "sleep, code, repeat**
 
