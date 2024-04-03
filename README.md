@@ -19,6 +19,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
 </a>
