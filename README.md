@@ -8,10 +8,10 @@
 - 💬 Ask me about **MERN, React Native.**
 
 - 📫 How to reach me **abbasmuhammad4798@gmail.com**
-- 
-- 💻 Portfolio site **abbasmuhammad4798@gmail.com**
+  
+- 💻 Portfolio site **<a href="https://www.abbasfullstack.dev/" target="blank"> **
  
-- 
+  
 
 
 - ⚡ Fun fact **Did you know that some developers have a tendency to fall into a pattern of "sleep, code, repeat**
