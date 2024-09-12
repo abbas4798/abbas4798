@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abbasmuhammad4798@gmail.com**
   
-- 💻 Portfolio site **<a href="https://www.abbasfullstack.dev/" target="blank"> **
+- 💻 Portfolio site **<a href="https://www.abbasfullstack.dev/" target="blank"> Abbasfullstack.dev**
  
   
 
